@@ -1,0 +1,146 @@
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\тест.exe
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\тест.deps.json
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\тест.runtimeconfig.json
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\тест.dll
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\тест.pdb
+C:\Users\a.gorelova\Desktop\тест\obj\Debug\net7.0\тест.csproj.AssemblyReference.cache
+C:\Users\a.gorelova\Desktop\тест\obj\Debug\net7.0\тест.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.gorelova\Desktop\тест\obj\Debug\net7.0\тест.AssemblyInfoInputs.cache
+C:\Users\a.gorelova\Desktop\тест\obj\Debug\net7.0\тест.AssemblyInfo.cs
+C:\Users\a.gorelova\Desktop\тест\obj\Debug\net7.0\тест.csproj.CoreCompileInputs.cache
+C:\Users\a.gorelova\Desktop\тест\obj\Debug\net7.0\тест.dll
+C:\Users\a.gorelova\Desktop\тест\obj\Debug\net7.0\refint\тест.dll
+C:\Users\a.gorelova\Desktop\тест\obj\Debug\net7.0\тест.pdb
+C:\Users\a.gorelova\Desktop\тест\obj\Debug\net7.0\тест.genruntimeconfig.cache
+C:\Users\a.gorelova\Desktop\тест\obj\Debug\net7.0\ref\тест.dll
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\PdfSharp.Charting.dll
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\PdfSharp.dll
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\de\PdfSharp.Charting.resources.dll
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\de\PdfSharp.resources.dll
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a.gorelova\Desktop\тест\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\a.gorelova\Desktop\тест\obj\Debug\net7.0\тест.csproj.CopyComplete
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\тест.exe
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\тест.deps.json
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\тест.runtimeconfig.json
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\тест.dll
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\тест.pdb
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\PdfSharp.Charting.dll
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\PdfSharp.dll
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\de\PdfSharp.Charting.resources.dll
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\de\PdfSharp.resources.dll
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a.gorelova\Desktop\тест — копия\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\a.gorelova\Desktop\тест — копия\obj\Debug\net7.0\тест.csproj.AssemblyReference.cache
+C:\Users\a.gorelova\Desktop\тест — копия\obj\Debug\net7.0\тест.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.gorelova\Desktop\тест — копия\obj\Debug\net7.0\тест.AssemblyInfoInputs.cache
+C:\Users\a.gorelova\Desktop\тест — копия\obj\Debug\net7.0\тест.AssemblyInfo.cs
+C:\Users\a.gorelova\Desktop\тест — копия\obj\Debug\net7.0\тест.csproj.CoreCompileInputs.cache
+C:\Users\a.gorelova\Desktop\тест — копия\obj\Debug\net7.0\тест.csproj.CopyComplete
+C:\Users\a.gorelova\Desktop\тест — копия\obj\Debug\net7.0\тест.dll
+C:\Users\a.gorelova\Desktop\тест — копия\obj\Debug\net7.0\refint\тест.dll
+C:\Users\a.gorelova\Desktop\тест — копия\obj\Debug\net7.0\тест.pdb
+C:\Users\a.gorelova\Desktop\тест — копия\obj\Debug\net7.0\тест.genruntimeconfig.cache
+C:\Users\a.gorelova\Desktop\тест — копия\obj\Debug\net7.0\ref\тест.dll
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\тест.exe
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\тест.deps.json
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\тест.runtimeconfig.json
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\тест.dll
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\тест.pdb
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\PdfSharp.Charting.dll
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\PdfSharp.dll
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\de\PdfSharp.Charting.resources.dll
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\de\PdfSharp.resources.dll
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a.gorelova\Desktop\тест (с логом)\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\a.gorelova\Desktop\тест (с логом)\obj\Debug\net7.0\тест.csproj.AssemblyReference.cache
+C:\Users\a.gorelova\Desktop\тест (с логом)\obj\Debug\net7.0\тест.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.gorelova\Desktop\тест (с логом)\obj\Debug\net7.0\тест.AssemblyInfoInputs.cache
+C:\Users\a.gorelova\Desktop\тест (с логом)\obj\Debug\net7.0\тест.AssemblyInfo.cs
+C:\Users\a.gorelova\Desktop\тест (с логом)\obj\Debug\net7.0\тест.csproj.CoreCompileInputs.cache
+C:\Users\a.gorelova\Desktop\тест (с логом)\obj\Debug\net7.0\тест.csproj.CopyComplete
+C:\Users\a.gorelova\Desktop\тест (с логом)\obj\Debug\net7.0\тест.dll
+C:\Users\a.gorelova\Desktop\тест (с логом)\obj\Debug\net7.0\refint\тест.dll
+C:\Users\a.gorelova\Desktop\тест (с логом)\obj\Debug\net7.0\тест.pdb
+C:\Users\a.gorelova\Desktop\тест (с логом)\obj\Debug\net7.0\тест.genruntimeconfig.cache
+C:\Users\a.gorelova\Desktop\тест (с логом)\obj\Debug\net7.0\ref\тест.dll
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\тест.exe
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\тест.deps.json
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\тест.runtimeconfig.json
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\тест.dll
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\тест.pdb
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\PdfSharp.Charting.dll
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\PdfSharp.dll
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\de\PdfSharp.Charting.resources.dll
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\de\PdfSharp.resources.dll
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a.gorelova\Desktop\тест тест тест\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\a.gorelova\Desktop\тест тест тест\obj\Debug\net7.0\тест.csproj.AssemblyReference.cache
+C:\Users\a.gorelova\Desktop\тест тест тест\obj\Debug\net7.0\тест.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.gorelova\Desktop\тест тест тест\obj\Debug\net7.0\тест.AssemblyInfoInputs.cache
+C:\Users\a.gorelova\Desktop\тест тест тест\obj\Debug\net7.0\тест.AssemblyInfo.cs
+C:\Users\a.gorelova\Desktop\тест тест тест\obj\Debug\net7.0\тест.csproj.CoreCompileInputs.cache
+C:\Users\a.gorelova\Desktop\тест тест тест\obj\Debug\net7.0\тест.csproj.CopyComplete
+C:\Users\a.gorelova\Desktop\тест тест тест\obj\Debug\net7.0\тест.dll
+C:\Users\a.gorelova\Desktop\тест тест тест\obj\Debug\net7.0\refint\тест.dll
+C:\Users\a.gorelova\Desktop\тест тест тест\obj\Debug\net7.0\тест.pdb
+C:\Users\a.gorelova\Desktop\тест тест тест\obj\Debug\net7.0\тест.genruntimeconfig.cache
+C:\Users\a.gorelova\Desktop\тест тест тест\obj\Debug\net7.0\ref\тест.dll
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\тест.exe
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\тест.deps.json
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\тест.runtimeconfig.json
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\тест.dll
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\тест.pdb
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\PdfSharp.Charting.dll
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\PdfSharp.dll
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\de\PdfSharp.Charting.resources.dll
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\de\PdfSharp.resources.dll
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a.gorelova\Desktop\тест 2-0\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\a.gorelova\Desktop\тест 2-0\obj\Debug\net7.0\тест.csproj.AssemblyReference.cache
+C:\Users\a.gorelova\Desktop\тест 2-0\obj\Debug\net7.0\тест.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.gorelova\Desktop\тест 2-0\obj\Debug\net7.0\тест.AssemblyInfoInputs.cache
+C:\Users\a.gorelova\Desktop\тест 2-0\obj\Debug\net7.0\тест.AssemblyInfo.cs
+C:\Users\a.gorelova\Desktop\тест 2-0\obj\Debug\net7.0\тест.csproj.CoreCompileInputs.cache
+C:\Users\a.gorelova\Desktop\тест 2-0\obj\Debug\net7.0\тест.csproj.CopyComplete
+C:\Users\a.gorelova\Desktop\тест 2-0\obj\Debug\net7.0\тест.dll
+C:\Users\a.gorelova\Desktop\тест 2-0\obj\Debug\net7.0\refint\тест.dll
+C:\Users\a.gorelova\Desktop\тест 2-0\obj\Debug\net7.0\тест.pdb
+C:\Users\a.gorelova\Desktop\тест 2-0\obj\Debug\net7.0\тест.genruntimeconfig.cache
+C:\Users\a.gorelova\Desktop\тест 2-0\obj\Debug\net7.0\ref\тест.dll
+Z:\тест-финал\bin\Debug\net7.0\тест.exe
+Z:\тест-финал\bin\Debug\net7.0\тест.deps.json
+Z:\тест-финал\bin\Debug\net7.0\тест.runtimeconfig.json
+Z:\тест-финал\bin\Debug\net7.0\тест.dll
+Z:\тест-финал\bin\Debug\net7.0\тест.pdb
+Z:\тест-финал\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+Z:\тест-финал\bin\Debug\net7.0\PdfSharp.Charting.dll
+Z:\тест-финал\bin\Debug\net7.0\PdfSharp.dll
+Z:\тест-финал\bin\Debug\net7.0\System.Drawing.Common.dll
+Z:\тест-финал\bin\Debug\net7.0\de\PdfSharp.Charting.resources.dll
+Z:\тест-финал\bin\Debug\net7.0\de\PdfSharp.resources.dll
+Z:\тест-финал\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+Z:\тест-финал\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+Z:\тест-финал\obj\Debug\net7.0\тест.csproj.AssemblyReference.cache
+Z:\тест-финал\obj\Debug\net7.0\тест.Properties.Resources.resources
+Z:\тест-финал\obj\Debug\net7.0\тест.csproj.GenerateResource.cache
+Z:\тест-финал\obj\Debug\net7.0\тест.GeneratedMSBuildEditorConfig.editorconfig
+Z:\тест-финал\obj\Debug\net7.0\тест.AssemblyInfoInputs.cache
+Z:\тест-финал\obj\Debug\net7.0\тест.AssemblyInfo.cs
+Z:\тест-финал\obj\Debug\net7.0\тест.csproj.CoreCompileInputs.cache
+Z:\тест-финал\obj\Debug\net7.0\тест.csproj.CopyComplete
+Z:\тест-финал\obj\Debug\net7.0\тест.dll
+Z:\тест-финал\obj\Debug\net7.0\refint\тест.dll
+Z:\тест-финал\obj\Debug\net7.0\тест.pdb
+Z:\тест-финал\obj\Debug\net7.0\тест.genruntimeconfig.cache
+Z:\тест-финал\obj\Debug\net7.0\ref\тест.dll

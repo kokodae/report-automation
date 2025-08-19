@@ -1,0 +1,24 @@
+<CONFIG>
+  <MAINPATH>C:\</MAINPATH>
+  <FILENAMES>
+    <FILENAME>1.xml</FILENAME>
+    <FILENAME>2.xml</FILENAME>
+  </FILENAMES>
+  <CARETKASIZES>
+    <CARETKASIZE id="1">18</CARETKASIZE>
+    <CARETKASIZE id="2">13</CARETKASIZE>
+  </CARETKASIZES>
+  <IDENTS>
+    <IDENT id="1">15</IDENT>
+    <IDENT id="2">10</IDENT>
+    <IDENT id="3">8</IDENT>
+    <IDENT id="top">25</IDENT>
+    <IDENT id="left">50</IDENT>
+  </IDENTS>
+  <FONTS>
+    <FONT id="1" type="Calibri" size="15" style="1"></FONT>
+    <FONT id="2" type="Calibri" size="10" style="0"></FONT>
+    <FONT id="3" type="Calibri" size="10" style="1"></FONT>
+    <FONT id="4" type="Calibri" size="8" style="0"></FONT>
+  </FONTS>
+</CONFIG>

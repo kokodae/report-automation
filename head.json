@@ -1,0 +1,77 @@
+[
+  {
+    "StaticData": "название файла",
+    "DynamicData": [
+      {
+        "Item1": "тэг1",
+        "Item2": "тэг2",
+        "Item3": 0
+      },
+      {
+        "Item1": "тэг1",
+        "Item2": "вид",
+        "Item3": 0
+      }
+    ]
+  },
+  {
+    "StaticData": "дата",
+    "DynamicData": [
+      {
+        "Item1": "тэг1",
+        "Item2": "дата",
+        "Item3": 0
+      }
+    ]
+  },
+  {
+    "StaticData": "время1",
+    "DynamicData": [
+      {
+        "Item1": "тэг1",
+        "Item2": "датавремя",
+        "Item3": 1
+      }
+    ]
+  },
+  {
+    "StaticData": "время2",
+    "DynamicData": [
+      {
+        "Item1": "тэг1",
+        "Item2": "датавремя",
+        "Item3": 1
+      }
+    ]
+  },
+  {
+    "StaticData": "результат",
+    "DynamicData": [
+      {
+        "Item1": "1",
+        "Item2": "результат",
+        "Item3": 0
+      }
+    ]
+  },
+  {
+    "StaticData": "время",
+    "DynamicData": [
+      {
+        "Item1": "данные",
+        "Item2": "датавремя",
+        "Item3": 1
+      }
+    ]
+  },
+  {
+    "StaticData": "результат",
+    "DynamicData": [
+      {
+        "Item1": "данные",
+        "Item2": "результат",
+        "Item3": 0
+      }
+    ]
+  }
+]
